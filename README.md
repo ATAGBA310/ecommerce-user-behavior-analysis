@@ -103,7 +103,7 @@ Taux observés :
 
 Le principal décrochage se situe entre la consultation du produit et l'ajout au panier.
 
-![Funnel](images/funnel.png)
+![Funnel](Images/funnel.png)
 
 ---
 
@@ -111,7 +111,7 @@ Le principal décrochage se situe entre la consultation du produit et l'ajout au
 
 L'analyse des catégories montre que certaines catégories convertissent mieux que d'autres malgré un volume de consultation parfois plus faible.
 
-![Category Conversion](images/category_conversion.png)
+![Category Conversion](Images/category_conversion.png)
 
 ---
 
@@ -125,7 +125,7 @@ Les utilisateurs ont été segmentés selon leur niveau d'activité :
 
 La majorité des utilisateurs appartient au segment LOW.
 
-![User Segmentation](images/user_segmentation.png)
+![User Segmentation](Images/user_segmentation.png)
 
 ---
 
@@ -133,7 +133,7 @@ La majorité des utilisateurs appartient au segment LOW.
 
 Vue globale du comportement utilisateur, des catégories, de l'activité et des prix.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ---
 
