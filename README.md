@@ -111,7 +111,7 @@ Le principal décrochage se situe entre la consultation du produit et l'ajout au
 
 L'analyse des catégories montre que certaines catégories convertissent mieux que d'autres malgré un volume de consultation parfois plus faible.
 
-![Category Conversion](Images/category_conversion.png)
+![Category Conversion](Images/top_categories_conversion.png)
 
 ---
 
